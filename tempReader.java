@@ -1,6 +1,6 @@
 import rxtxrobot.*;
 
-public class main {
+public class tempReader {
 
 		public static RXTXRobot robot;
 		
